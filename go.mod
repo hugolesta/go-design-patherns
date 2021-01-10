@@ -1,3 +1,3 @@
-module hugolesta/go-design-patherns.git
+module github.com/hugolesta/go-design-patherns
 
 go 1.13
